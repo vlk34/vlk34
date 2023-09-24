@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Hello, I'm Volkan from Turkey, and I'm passionate about front-end development. As an aspiring developer, I'm dedicated to learning and crafting websites that leave a great impression. My current goal is to dive into data structures and algorithms using C++ as a means to gain a deeper understanding of the programming world.
+
+[![Volkans's GitHub stats](https://github-readme-stats.vercel.app/api?username=vlk34)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **vlk34/vlk34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
