@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Volkan Erdogan</h1>
-<h3 align="center">An aspiring frontend developer</h3>
+<h3 align="center">2nd Year Computer Engineering Student & An Aspiring Frontend Developer</h3>
 
 <h2>About Me 👤</h2>
 
