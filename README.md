@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Volkan Erdogan</h1>
 <h3 align="center">An aspiring frontend developer</h3>
 
-- 🌱 I’m currently trying to dive into data structures and algorithms using C++ as a means to gain a deeper understanding of the programming world. 
+<h2>About Me 👤</h2>
 
-- 📫 How to reach me **vlk34vlk34@gmail.com**
+- 🌱 I’m currently trying to dive into data structures and algorithms using C++ as a means to gain a deeper understanding of the programming world. 
+- 💻 I'm passionate about front-end development as well as designing. I'm dedicated to learning and crafting websites that leave a great impression. 
+
+- 📫 Reach out to me via email: **vlk34vlk34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
